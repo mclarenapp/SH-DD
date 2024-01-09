@@ -1,40 +1,44 @@
 JsonpData({
     "lines":[
         {
-            "title":"*A线路-主推线路",
-            "host":"https://mkla.youma8.com"
+            "title":"*暴力熊-推荐线路-首选",
+            "host":"http://blx1.dian668.com"
         },
         {
-            "title":"*B线路-主推线路",
-            "host":"https://mklb.youma8.com"
+            "title":"*暴力熊-临时线路-备用",
+            "host":"http://122.228.8.80:222"
         },
         {
-            "title":"*C线路-主推线路",
-            "host":"https://mklc.youma8.com"
+            "title":"*彩虹糖-推荐线路-首选",
+            "host":"http://cht1.dian668.com"
         },
         {
-            "title":"*D线路-主推线路",
-            "host":"https://mkld.youma8.com"
+            "title":"*彩虹糖-临时线路-备用",
+            "host":"http://115.223.43.22:202"
         },
         {
-            "title":"*E线路-备用线路",
-            "host":"https://mkle.youma8.com"
+            "title":"*潘多拉-推荐线路-首选",
+            "host":"http://pdl1.dian668.com"
         },
         {
-            "title":"*F线路-备用线路",
-            "host":"https://mklf.youma8.com"
+            "title":"*潘多拉-临时线路-备用",
+            "host":"http://115.223.43.77:303"
         },
         {
-            "title":"*G线路-备用线路",
-            "host":"https://mklg.youma8.com"
+            "title":"*费罗列-推荐线路-首选",
+            "host":"http://fll1.dian668.com"
         },
         {
-            "title":"*H线路-备用线路",
-            "host":"https://mklh.youma8.com"
+            "title":"*费罗列-临时线路-备用",
+            "host":"http://115.223.43.79:505"
         },
         {
-            "title":"*I线路-备用线路",
-            "host":"https://mkli.youma8.com"
+            "title":"*扫尾大师-推荐线路-首选",
+            "host":"http://swds1.dian668.com"
+        },
+        {
+            "title":"*扫尾大师-临时线路-备用",
+            "host":"http://115.223.43.90:606"
         }
-    ]
+]
 })
